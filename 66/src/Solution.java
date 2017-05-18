@@ -37,7 +37,7 @@ public class Solution {
     public static void main(String args[]) {
 
         Solution solution = new Solution();
-        int[] nums = {8,9,9,9};
+        int[] nums = {2,9};
         System.out.println(Arrays.toString(solution.plusOne(nums)));
     }
 }

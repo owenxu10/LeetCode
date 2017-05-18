@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66/66.iml" filepath="$PROJECT_DIR$/66/66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/67/67.iml" filepath="$PROJECT_DIR$/67/67.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
     </modules>
   </component>
 </project>
