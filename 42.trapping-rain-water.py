@@ -4,6 +4,12 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
+
+        '''
+        two pointer: p_left and p_right
+        two bar: leftHeight and rightHeight
+        choose the smaller bar and add into sum
+        '''
         p_left = 0
         p_right = len(height)-1
 
