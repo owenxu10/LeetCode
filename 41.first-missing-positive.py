@@ -9,5 +9,6 @@ class Solution(object):
         for i in xrange(1, len(nums)+2):
             if i not in nums:
                 return i
-        
+       
 
+ 
