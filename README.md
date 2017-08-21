@@ -4,7 +4,7 @@ My work is in the Leetcode!!!
 Strive for FLAG:
 
 | Date        |   Number | Desc                    |
-| ----------: | -------: | ----:                   |
+| :---------- | :------- | :----                   |
 | Aug.19.2017 |       39 |                         |
 | Aug.20.2017 |       40 |                         |
 | Aug.20.2017 |       41 | Not in O(n) should redo |
