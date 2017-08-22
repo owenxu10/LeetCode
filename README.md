@@ -11,6 +11,7 @@ Strive for FLAG:
 | Aug.21.2017 |       42 |                         |
 | Aug.21.2017 |       43 |                         |
 | Aug.21.2017 |       44 | DP                      |
+| Aug.22.2017 |       45 | Greedy Algorithm        |
 
 
 
