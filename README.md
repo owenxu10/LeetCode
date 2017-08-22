@@ -10,7 +10,7 @@ Strive for FLAG:
 | Aug.20.2017 |       41 | Not in O(n) should redo |
 | Aug.21.2017 |       42 |                         |
 | Aug.21.2017 |       43 |                         |
-| Aug.21.201  |       44 | DP                      |
+| Aug.21.2017 |       44 | DP                      |
 
 
 
