@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="leetcode-cli-plugins-master">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/leetcode-cli-plugins-master.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

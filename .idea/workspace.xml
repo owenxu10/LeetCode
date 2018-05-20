@@ -1,115 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5a8db08-0999-4fbb-b851-9f0b1d58488c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/leetcode_cli_plugins_master.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/repositories_xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_0.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_1.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_2.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_3.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_4.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_5.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_6.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_7.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_8.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.bak_9.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/index.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode-cli-plugins-master.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/301.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/36.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/399.evaluate-division.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/50.powx-n.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/51/51.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/53.maximum-subarray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/54.spiral-matrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/55.jump-game.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/56.merge-intervals.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/71/71.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/old/83/83.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/workbench.xmi" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1/Solution.java" afterPath="$PROJECT_DIR$/old/1/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/12.py" afterPath="$PROJECT_DIR$/old/12.py" />
-      <change beforePath="$PROJECT_DIR$/13.py" afterPath="$PROJECT_DIR$/old/13.py" />
-      <change beforePath="$PROJECT_DIR$/14.py" afterPath="$PROJECT_DIR$/old/14.py" />
-      <change beforePath="$PROJECT_DIR$/15.py" afterPath="$PROJECT_DIR$/old/15.py" />
-      <change beforePath="$PROJECT_DIR$/150/src/Solution.java" afterPath="$PROJECT_DIR$/old/150/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/17.py" afterPath="$PROJECT_DIR$/old/17.py" />
-      <change beforePath="$PROJECT_DIR$/2/Solution.java" afterPath="$PROJECT_DIR$/old/2/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/22.py" afterPath="$PROJECT_DIR$/old/22.py" />
-      <change beforePath="$PROJECT_DIR$/26/Solution.java" afterPath="$PROJECT_DIR$/old/26/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/27.py" afterPath="$PROJECT_DIR$/old/27.py" />
-      <change beforePath="$PROJECT_DIR$/29.py" afterPath="$PROJECT_DIR$/old/29.py" />
-      <change beforePath="$PROJECT_DIR$/3/Solution.java" afterPath="$PROJECT_DIR$/old/3/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/301.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/303/Solution.java" afterPath="$PROJECT_DIR$/old/303/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/36.py" afterPath="$PROJECT_DIR$/.metadata/.lock" />
-      <change beforePath="$PROJECT_DIR$/38.py" afterPath="$PROJECT_DIR$/old/38.py" />
-      <change beforePath="$PROJECT_DIR$/39.combination-sum.py" afterPath="$PROJECT_DIR$/old/39.combination-sum.py" />
-      <change beforePath="$PROJECT_DIR$/399.evaluate-division.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/40.combination-sum-ii.py" afterPath="$PROJECT_DIR$/old/40.combination-sum-ii.py" />
-      <change beforePath="$PROJECT_DIR$/41.first-missing-positive.py" afterPath="$PROJECT_DIR$/old/41.first-missing-positive.py" />
-      <change beforePath="$PROJECT_DIR$/42.trapping-rain-water.py" afterPath="$PROJECT_DIR$/old/42.trapping-rain-water.py" />
-      <change beforePath="$PROJECT_DIR$/43.multiply-strings.py" afterPath="$PROJECT_DIR$/old/43.multiply-strings.py" />
-      <change beforePath="$PROJECT_DIR$/44.wildcard-matching.py" afterPath="$PROJECT_DIR$/old/44.wildcard-matching.py" />
-      <change beforePath="$PROJECT_DIR$/45.jump-game-ii.py" afterPath="$PROJECT_DIR$/old/45.jump-game-ii.py" />
-      <change beforePath="$PROJECT_DIR$/46.permutations.py" afterPath="$PROJECT_DIR$/old/46.permutations.py" />
-      <change beforePath="$PROJECT_DIR$/48.rotate-image.py" afterPath="$PROJECT_DIR$/old/48.rotate-image.py" />
-      <change beforePath="$PROJECT_DIR$/49.group-anagrams.py" afterPath="$PROJECT_DIR$/old/49.group-anagrams.py" />
-      <change beforePath="$PROJECT_DIR$/50.powx-n.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/51/src/Solution.java" afterPath="$PROJECT_DIR$/old/51/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/53.maximum-subarray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/53/src/Solution.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/54.spiral-matrix.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/55.jump-game.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/56.merge-intervals.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/58/58.iml" afterPath="$PROJECT_DIR$/old/150/150.iml" />
-      <change beforePath="$PROJECT_DIR$/58/src/Solution.java" afterPath="$PROJECT_DIR$/old/58/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/66/66.iml" afterPath="$PROJECT_DIR$/old/58/58.iml" />
-      <change beforePath="$PROJECT_DIR$/66/src/Solution.java" afterPath="$PROJECT_DIR$/old/66/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/67/67.iml" afterPath="$PROJECT_DIR$/old/66/66.iml" />
-      <change beforePath="$PROJECT_DIR$/67/src/Solution.java" afterPath="$PROJECT_DIR$/old/67/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/71/src/Solution.java" afterPath="$PROJECT_DIR$/old/71/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/83/83.iml" afterPath="$PROJECT_DIR$/old/67/67.iml" />
-      <change beforePath="$PROJECT_DIR$/83/src/ListNode.java" afterPath="$PROJECT_DIR$/old/83/src/ListNode.java" />
-      <change beforePath="$PROJECT_DIR$/83/src/Solution.java" afterPath="$PROJECT_DIR$/old/83/src/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/84/Solution.java" afterPath="$PROJECT_DIR$/old/84/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/out/production/66/Solution.class" afterPath="" />
+    <list default="true" id="b5a8db08-0999-4fbb-b851-9f0b1d58488c" name="Default" comment="2018 Summer">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/leetcode_cli_plugins_master.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/repositories_xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_0.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_1.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_2.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_3.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_4.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_5.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_6.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_7.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_8.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_9.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/leetcode-cli-plugins-master.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/old/1/Solution.java" afterPath="$PROJECT_DIR$/old/1/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/old/26/Solution.java" afterPath="$PROJECT_DIR$/old/26/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/old/3/Solution.java" afterPath="$PROJECT_DIR$/old/3/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/old/303/Solution.java" afterPath="$PROJECT_DIR$/old/303/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/workbench.xmi" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +68,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -313,12 +255,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526851577671</updated>
-      <workItem from="1526851583700" duration="411000" />
+      <workItem from="1526851583700" duration="544000" />
     </task>
+    <task id="LOCAL-00001" summary="2018 Summer">
+      <created>1526852279215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526852279215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411000" />
+    <option name="totallyTimeSpent" value="544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1396" height="878" extended-state="0" />
@@ -357,6 +307,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2018 Summer" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018 Summer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -423,7 +377,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
