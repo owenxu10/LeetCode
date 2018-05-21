@@ -1,5 +1,3 @@
-package FB;
-
 /*
 38. Count and Say
 
