@@ -30,24 +30,23 @@ Idea: the (i+1)th sequence is the "count and say" of the ith sequence!
  */
 class Solution {
   public String countAndSay(int n) {
-    String base = "1";
+    String result = "1";
     for (int i = 1; i < n; i++) {
-      int count = 1;
+      int count = 1, j;
       StringBuilder sb = new StringBuilder();
-      int j = 0;
-      for (; j < base.length() - 1; j++) {
-        if (base.charAt(j) == base.charAt(j + 1)) {
+      for (j = 0; j < result.length() - 1; j++) {
+        if (result.charAt(j) == result.charAt(j + 1)) {
           count++;
         } else {
           sb.append(count);
-          sb.append(base.charAt(j));
+          sb.append(result.charAt(j));
           count = 1;
         }
       }
       sb.append(count);
-      sb.append(base.charAt(j));
-      base = sb.toString();
+      sb.append(result.charAt(j));
+      result = sb.toString();
     }
-    return base;
+    return result;
   }
 }
