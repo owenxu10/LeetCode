@@ -10,5 +10,3 @@ Strive for FLAG:
 | May 22 	  | 261, 278 | binary search http://zhangxiaoya.github.io/2015/06/26/upper-bound-and-lower-bound-of-binary-search/ |
 
 
-
-
