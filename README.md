@@ -15,4 +15,7 @@ Strive for FLAG:
 | May 28	| 334, 48, 84, 85, 286, 50 | 84: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/ 286: DFS, BFS 	50: java integer: 2147483647~-2147483648|
 | May 30	| 311, 98, 57, 71 ||
 | June 1	| 90, 128, 102, 69, 221, 257, 236, 121,680 ||
-| June 2	| 88, 234
+| June 2	| 88, 234 ||
+| June 3    | 26, 88, 238, 43, 235, 314 ||
+| June 4    | 161, 20, 91 ||
+| June 5    | 56, 127
